@@ -1,0 +1,187 @@
+[
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/cc -DGGML_BUILD -DGGML_COMMIT=\\\"6114e692\\\" -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_VERSION=\\\"0.9.4\\\" -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -std=gnu11 -o CMakeFiles/ggml-base.dir/ggml.c.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml.c",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml.c"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BUILD -DGGML_COMMIT=\\\"6114e692\\\" -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_VERSION=\\\"0.9.4\\\" -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -std=gnu++17 -o CMakeFiles/ggml-base.dir/ggml.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/cc -DGGML_BUILD -DGGML_COMMIT=\\\"6114e692\\\" -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_VERSION=\\\"0.9.4\\\" -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -std=gnu11 -o CMakeFiles/ggml-base.dir/ggml-alloc.c.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-alloc.c",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-alloc.c"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BUILD -DGGML_COMMIT=\\\"6114e692\\\" -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_VERSION=\\\"0.9.4\\\" -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -std=gnu++17 -o CMakeFiles/ggml-base.dir/ggml-backend.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-backend.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-backend.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BUILD -DGGML_COMMIT=\\\"6114e692\\\" -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_VERSION=\\\"0.9.4\\\" -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -std=gnu++17 -o CMakeFiles/ggml-base.dir/ggml-opt.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-opt.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-opt.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BUILD -DGGML_COMMIT=\\\"6114e692\\\" -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_VERSION=\\\"0.9.4\\\" -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -std=gnu++17 -o CMakeFiles/ggml-base.dir/ggml-threading.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-threading.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-threading.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/cc -DGGML_BUILD -DGGML_COMMIT=\\\"6114e692\\\" -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_VERSION=\\\"0.9.4\\\" -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -std=gnu11 -o CMakeFiles/ggml-base.dir/ggml-quants.c.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-quants.c",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-quants.c"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BUILD -DGGML_COMMIT=\\\"6114e692\\\" -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_VERSION=\\\"0.9.4\\\" -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -std=gnu++17 -o CMakeFiles/ggml-base.dir/gguf.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/gguf.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/gguf.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/cc -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/.. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -march=native -fopenmp -std=gnu11 -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.c.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.c",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.c"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/.. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -std=gnu++17 -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/.. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -std=gnu++17 -o CMakeFiles/ggml-cpu.dir/ggml-cpu/repack.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/repack.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/repack.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/.. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -std=gnu++17 -o CMakeFiles/ggml-cpu.dir/ggml-cpu/hbm.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/hbm.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/hbm.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/cc -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/.. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -march=native -fopenmp -std=gnu11 -o CMakeFiles/ggml-cpu.dir/ggml-cpu/quants.c.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/quants.c",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/quants.c"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/.. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -std=gnu++17 -o CMakeFiles/ggml-cpu.dir/ggml-cpu/traits.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/traits.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/traits.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/.. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -std=gnu++17 -o CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/amx.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/amx/amx.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/amx/amx.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/.. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -std=gnu++17 -o CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/mmq.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/amx/mmq.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/amx/mmq.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/.. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -std=gnu++17 -o CMakeFiles/ggml-cpu.dir/ggml-cpu/binary-ops.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/binary-ops.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/binary-ops.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/.. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -std=gnu++17 -o CMakeFiles/ggml-cpu.dir/ggml-cpu/unary-ops.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/unary-ops.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/unary-ops.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/.. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -std=gnu++17 -o CMakeFiles/ggml-cpu.dir/ggml-cpu/vec.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/vec.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/vec.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/.. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -std=gnu++17 -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ops.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/ops.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/ops.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/cc -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/.. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -march=native -fopenmp -std=gnu11 -o CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/quants.c.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/arch/x86/quants.c",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/arch/x86/quants.c"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/.. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -std=gnu++17 -o CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/repack.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/arch/x86/repack.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-cpu/arch/x86/repack.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -std=gnu++17 -o CMakeFiles/ggml.dir/ggml-backend-reg.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-backend-reg.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/ggml-backend-reg.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DWHISPER_BUILD -DWHISPER_SHARED -DWHISPER_VERSION=\\\"1.8.2\\\" -Dwhisper_EXPORTS -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/../include -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -o CMakeFiles/whisper.dir/whisper.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/whisper.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/whisper.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/tests",
+  "command": "/usr/bin/c++ -DSAMPLE_PATH=\\\"/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/samples/jfk.wav\\\" -DVAD_MODEL_PATH=\\\"/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/models/for-tests-silero-v6.2.0-ggml.bin\\\" -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/tests/../include -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/tests/../ggml/include -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/tests/../examples -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/test-vad.dir/test-vad.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/tests/test-vad.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/tests/test-vad.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/tests",
+  "command": "/usr/bin/c++ -DSAMPLE_PATH=\\\"/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/samples/jfk.wav\\\" -DVAD_MODEL_PATH=\\\"/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/models/for-tests-silero-v6.2.0-ggml.bin\\\" -DWHISPER_MODEL_PATH=\\\"/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/models/ggml-base.en.bin\\\" -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/tests/../include -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/tests/../ggml/include -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/tests/../examples -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/test-vad-full.dir/test-vad-full.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/tests/test-vad-full.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/tests/test-vad-full.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/examples",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/../include -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -o CMakeFiles/common.dir/common.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/common.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/common.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/examples",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/../include -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -o CMakeFiles/common.dir/common-ggml.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/common-ggml.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/common-ggml.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/examples",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/../include -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -o CMakeFiles/common.dir/common-whisper.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/common-whisper.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/common-whisper.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/examples",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/../include -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -fPIC -o CMakeFiles/common.dir/grammar-parser.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/grammar-parser.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/grammar-parser.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/examples/cli",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/../include -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -o CMakeFiles/whisper-cli.dir/cli.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/cli/cli.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/cli/cli.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/examples/bench",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/../include -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -o CMakeFiles/whisper-bench.dir/bench.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/bench/bench.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/bench/bench.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/examples/server",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/../include -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/whisper-server.dir/server.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/server/server.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/server/server.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/examples/quantize",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/../include -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -o CMakeFiles/quantize.dir/quantize.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/quantize/quantize.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/quantize/quantize.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/examples/vad-speech-segments",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/. -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/src/../include -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/ggml/src/../include -O3 -DNDEBUG -o CMakeFiles/vad-speech-segments.dir/speech.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/vad-speech-segments/speech.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/vad-speech-segments/speech.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/examples/deprecation-warning",
+  "command": "/usr/bin/c++  -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples -O3 -DNDEBUG -o CMakeFiles/main.dir/deprecation-warning.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/build/examples/deprecation-warning",
+  "command": "/usr/bin/c++  -I/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples -O3 -DNDEBUG -o CMakeFiles/bench.dir/deprecation-warning.cpp.o -c /home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp",
+  "file": "/home/mr_robot/Desktop/Git/rom_robotics/data/app/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp"
+}
+]
